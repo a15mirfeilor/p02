@@ -1,4 +1,5 @@
 #!/bin/bash
+#https://github.com/a15mirfeilor/p02
 # Make sure the script is being executed with superuser privileges.
 if [[ "${UID}" -eq 0 ]]; then
 	# If the user doesn't supply at least one argument, then give them help.
